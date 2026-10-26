@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AndreiTurean
-- 👀 I’m interested in creating cross platform and cross complie libraries, framework in C++ using CMake.
-- 🌱 I’m currently learning C++, CMake and package management.
-- 💞️ I’m looking to collaborate on n/a
-- 📫 How to reach me tureanandreibogdan@gmail.com
+### 👋 Hi there, I'm Andrei (@AndreiTurean)
 
-<!---
-AndreiTurean/AndreiTurean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a software engineer who loves diving deep into C++ (OOP) and systems architecture. I have a strong passion for designing my own tools, libraries, and frameworks from scratch—not just to solve problems, but to truly understand how everything works under the hood. 
+
+- 🔭 **What I'm focused on:** Building clean, high-performance, cross-platform C++ libraries and tooling powered by modern CMake.
+- 🌱 **Currently exploring:** Advanced C++20 features, robust package management, and low-level system design.
+- 📫 **How to reach me:** Drop me an email at [tureanandreibogdan@gmail.com](mailto:tureanandreibogdan@gmail.com).
+
+---
+*“Building things from the ground up is how I learn best.”*
